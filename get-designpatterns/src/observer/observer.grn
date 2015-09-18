@@ -14,13 +14,6 @@
       <x="235"/>
       <y="216"/>
    </type>
-   <relationship>
-      <class="edu.buffalo.cse.green.relationship.realization.RealizationPart"/>
-      <sourceType="=./src<observer{ConcreteObserver.java[ConcreteObserver"/>
-      <targetType="=./src<observer{Observer.java[Observer"/>
-      <bendpoints>
-      </bendpoints>
-   </relationship>
    <type>
       <name="=./src<observer{ConcreteSubject.java[ConcreteSubject"/>
       <height="-1"/>
@@ -36,8 +29,22 @@
       <y="53"/>
    </type>
    <relationship>
+      <class="edu.buffalo.cse.green.relationship.realization.RealizationPart"/>
+      <sourceType="=./src<observer{ConcreteObserver.java[ConcreteObserver"/>
+      <targetType="=./src<observer{Observer.java[Observer"/>
+      <bendpoints>
+      </bendpoints>
+   </relationship>
+   <relationship>
       <class="edu.buffalo.cse.green.relationship.dependency.DependencyPPart"/>
       <sourceType="=./src<observer{Subject.java[Subject"/>
+      <targetType="=./src<observer{Observer.java[Observer"/>
+      <bendpoints>
+      </bendpoints>
+   </relationship>
+   <relationship>
+      <class="edu.buffalo.cse.green.relationship.dependency.DependencyPPart"/>
+      <sourceType="=./src<observer{ConcreteSubject.java[ConcreteSubject"/>
       <targetType="=./src<observer{Observer.java[Observer"/>
       <bendpoints>
       </bendpoints>
@@ -46,13 +53,6 @@
       <class="edu.buffalo.cse.green.relationship.realization.RealizationPart"/>
       <sourceType="=./src<observer{ConcreteSubject.java[ConcreteSubject"/>
       <targetType="=./src<observer{Subject.java[Subject"/>
-      <bendpoints>
-      </bendpoints>
-   </relationship>
-   <relationship>
-      <class="edu.buffalo.cse.green.relationship.dependency.DependencyPPart"/>
-      <sourceType="=./src<observer{ConcreteSubject.java[ConcreteSubject"/>
-      <targetType="=./src<observer{Observer.java[Observer"/>
       <bendpoints>
       </bendpoints>
    </relationship>

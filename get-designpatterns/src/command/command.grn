@@ -1,0 +1,46 @@
+<uml>
+   <greenVersion="30500"/>
+   <type>
+      <name="=./src<command{Command.java[Command"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="518"/>
+      <y="108"/>
+   </type>
+   <type>
+      <name="=./src<command{Invoker.java[Invoker"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="137"/>
+      <y="114"/>
+   </type>
+   <type>
+      <name="=./src<command{ConcreteCommand.java[ConcreteCommand"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="453"/>
+      <y="308"/>
+   </type>
+   <type>
+      <name="=./src<command{Receiver.java[Receiver"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="141"/>
+      <y="321"/>
+   </type>
+   <relationship>
+      <class="edu.buffalo.cse.green.relationship.realization.RealizationPart"/>
+      <sourceType="=./src<command{ConcreteCommand.java[ConcreteCommand"/>
+      <targetType="=./src<command{Command.java[Command"/>
+      <bendpoints>
+      </bendpoints>
+   </relationship>
+   <relationship>
+      <class="edu.buffalo.cse.green.relationship.association.AssociationPart"/>
+      <sourceType="=./src<command{ConcreteCommand.java[ConcreteCommand"/>
+      <targetType="=./src<command{Receiver.java[Receiver"/>
+      <bendpoints>
+      </bendpoints>
+   </relationship>
+</uml>
+
