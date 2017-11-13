@@ -99,7 +99,16 @@ Client.java
     Shape t = shapeFactory.getShape("TRIANGLE");
     t.draw();
 
-此时如果增加一个Star的图形类型，也可以从容应对了，从使用者`Client`的角度，无需关心对象是如何创建的。看到这里可能你会觉得，前后两个版本的`Client`并没有太大的不同，反而采用了工厂模式后更加复杂了。这是例子本身复杂度不够的原因，我们来看一个Java中经常用到的关于日期类型格式化的例子：
+此时如果增加一个Star的图形类型，也可以从容应对了，从使用者`Client`的角度，无需关心对象是如何创建的。
+
+以上例子的类关系图如下：
+![simple-factory1](images/simplefactory1.png)
+
+另外还有一个例子，类关系图如下，代码请自行研究：
+![simple-factory1](images/simplefactory2.png)
+
+
+看到这里可能你会觉得，前后两个版本的`Client`并没有太大的不同，反而采用了工厂模式后更加复杂了。这是例子本身复杂度不够的原因，我们来看一个Java中经常用到的关于日期类型格式化的例子：
 
     import java.util.*;  
     import java.text.*;  
