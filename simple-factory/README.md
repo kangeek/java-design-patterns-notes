@@ -112,6 +112,7 @@ Client.java
 1. `ShapeFactory`的`getShape(String)`方法也可以改为非`static`的，这样就需要首先构造一个实际的工厂对象来创建产品了；
 2. 工厂类、抽象产品和具体产品这三个角色有可能部分或全部合并，我们来看一个Java中经常用到的关于日期类型格式化的例子：
 
+
     import java.util.*;  
     import java.text.*;  
     class DateTest  
