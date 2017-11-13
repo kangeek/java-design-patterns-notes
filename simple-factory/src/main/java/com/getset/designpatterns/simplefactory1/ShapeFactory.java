@@ -1,7 +1,7 @@
 package com.getset.designpatterns.simplefactory1;
 
 public class ShapeFactory {
-    public Shape CreateShape(String shape) {
+    public final static Shape CreateShape(String shape) {
         if (null == shape) {
             return null;
         }
