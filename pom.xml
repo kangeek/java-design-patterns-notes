@@ -15,6 +15,7 @@
 
     <modules>
         <module>simple-factory</module>
+        <module>factory-method</module>
     </modules>
 
 </project>

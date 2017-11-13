@@ -1,7 +1,7 @@
 
 为了自己能够系统有效地学习设计模式，也希望能够帮助到其他想对设计模式有了解的同学，我边学习边做了这个系列的设计模式笔记。  
 
-本系列主要由Java语言来实现。内容来自国外网站[Java-desing-patterns](http://java-design-patterns.com/patterns/)，并结合了其他相关内容，如[设计模式|菜鸟教程](http://www.runoob.com/design-pattern/design-pattern-intro.html)。所以——
+本系列主要由Java语言来实现。内容来自国外网站[Java-desing-patterns](http://java-design-patterns.com/patterns/)，并结合了其他相关内容，如阎宏博士的《JAVA与模式》一书以及[设计模式|菜鸟教程](http://www.runoob.com/design-pattern/design-pattern-intro.html)等资料。所以——
 
 * 如果你在找一个详细的、靠谱的、认真的设计模式系列文档，
 * 如果你觉得设计模式的学习总是虎头蛇尾、难以坚持，
@@ -44,3 +44,4 @@
 
 # 例子
 1. [简单工厂模式](simple-factory)
+2. [工厂方法模式](factory-method)
