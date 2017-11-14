@@ -45,3 +45,4 @@
 # 例子
 1. [简单工厂模式](simple-factory)
 2. [工厂方法模式](factory-method)
+3. [抽象工厂模式](abstract-factory)
