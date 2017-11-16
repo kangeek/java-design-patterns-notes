@@ -47,3 +47,4 @@
 2. [工厂方法模式](factory-method)
 3. [抽象工厂模式](abstract-factory)
 4. [单例模式](singleton)
+5. [建造者模式](builder)
