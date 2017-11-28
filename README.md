@@ -48,3 +48,4 @@
 3. [抽象工厂模式](abstract-factory)
 4. [单例模式](singleton)
 5. [建造者模式](builder)
+6. [适配器模式](adaptor)
