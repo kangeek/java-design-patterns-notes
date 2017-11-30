@@ -22,6 +22,7 @@
         <module>prototype</module>
         <module>adaptor</module>
         <module>bridge</module>
+        <module>proxy</module>
     </modules>
 
 </project>

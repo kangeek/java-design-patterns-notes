@@ -50,3 +50,4 @@
 5. [建造者模式](builder)
 6. [适配器模式](adaptor)
 7. [桥接模式](bridge)
+8. [代理模式](proxy)
