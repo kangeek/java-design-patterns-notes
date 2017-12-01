@@ -33,16 +33,16 @@
 
 Display.java
 
-public abstract class Display {
-    public abstract int getColumn();
-    public abstract int getRows();
-    public abstract String getRowText(int row);
-    public final void show() {
-        for (int i = 0; i < getRows(); i++) {
-            System.out.println(getRowText(i));
+    public abstract class Display {
+        public abstract int getColumn();
+        public abstract int getRows();
+        public abstract String getRowText(int row);
+        public final void show() {
+            for (int i = 0; i < getRows(); i++) {
+                System.out.println(getRowText(i));
+            }
         }
     }
-}
 
 其中`show()`方法将所有行的内容显示出来。那么对于没有任何边框的文字显示来说：
 
