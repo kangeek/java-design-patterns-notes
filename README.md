@@ -51,3 +51,4 @@
 6. [适配器模式](adaptor)
 7. [桥接模式](bridge)
 8. [代理模式](proxy)
+9. [装饰器模式](decorator)

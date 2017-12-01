@@ -23,6 +23,7 @@
         <module>adaptor</module>
         <module>bridge</module>
         <module>proxy</module>
+        <module>decorator</module>
     </modules>
 
 </project>
