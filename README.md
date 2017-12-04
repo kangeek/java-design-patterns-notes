@@ -54,3 +54,4 @@
 9. [代理模式](proxy)
 10.[装饰器模式](decorator)
 11.[合成模式](composite)
+12.[观察者模式](observer)
