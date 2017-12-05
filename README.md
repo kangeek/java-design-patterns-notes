@@ -55,3 +55,4 @@
 10.[装饰器模式](decorator)
 11.[合成模式](composite)
 12.[观察者模式](observer)
+13.[门面模式](facade)
