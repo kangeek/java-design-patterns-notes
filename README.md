@@ -56,3 +56,4 @@
 11.[合成模式](composite)
 12.[观察者模式](observer)
 13.[门面模式](facade)
+14.[策略模式](strategy)
