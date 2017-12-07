@@ -57,3 +57,4 @@
 12.[观察者模式](observer)
 13.[门面模式](facade)
 14.[策略模式](strategy)
+15.[模板方法模式](template-method)

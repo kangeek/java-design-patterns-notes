@@ -28,6 +28,7 @@
         <module>observer</module>
         <module>facade</module>
         <module>strategy</module>
+        <module>template-method</module>
     </modules>
 
 </project>
