@@ -30,6 +30,7 @@
         <module>strategy</module>
         <module>template-method</module>
         <module>command</module>
+        <module>chainofresponsibility</module>
     </modules>
 
 </project>
