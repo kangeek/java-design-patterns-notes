@@ -60,3 +60,4 @@
 15. [模板方法模式](template-method)
 16. [命令模式](command)
 17. [责任链模式](chainofresponsibility)
+18. [享元模式](flyweight)

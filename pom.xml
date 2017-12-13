@@ -31,6 +31,7 @@
         <module>template-method</module>
         <module>command</module>
         <module>chainofresponsibility</module>
+        <module>flyweight</module>
     </modules>
 
 </project>
