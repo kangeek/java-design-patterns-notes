@@ -32,6 +32,7 @@
         <module>command</module>
         <module>chainofresponsibility</module>
         <module>flyweight</module>
+        <module>iterator</module>
     </modules>
 
 </project>

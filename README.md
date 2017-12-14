@@ -61,3 +61,4 @@
 16. [命令模式](command)
 17. [责任链模式](chainofresponsibility)
 18. [享元模式](flyweight)
+19. [迭代器模式](iterator)
