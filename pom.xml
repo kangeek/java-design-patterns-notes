@@ -33,6 +33,7 @@
         <module>chainofresponsibility</module>
         <module>flyweight</module>
         <module>iterator</module>
+        <module>interpreter</module>
     </modules>
 
 </project>
