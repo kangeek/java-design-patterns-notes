@@ -34,6 +34,7 @@
         <module>flyweight</module>
         <module>iterator</module>
         <module>interpreter</module>
+        <module>mediator</module>
     </modules>
 
 </project>
