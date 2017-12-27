@@ -35,6 +35,7 @@
         <module>iterator</module>
         <module>interpreter</module>
         <module>mediator</module>
+        <module>state</module>
     </modules>
 
 </project>
