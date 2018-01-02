@@ -36,6 +36,7 @@
         <module>interpreter</module>
         <module>mediator</module>
         <module>state</module>
+        <module>memento</module>
     </modules>
 
 </project>

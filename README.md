@@ -65,3 +65,4 @@
 20. [解释器模式](interpreter)
 21. [调停者模式](mediator)
 22. [状态模式](state)
+23. [备忘录模式](memento)
