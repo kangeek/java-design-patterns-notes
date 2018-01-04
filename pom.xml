@@ -37,6 +37,7 @@
         <module>mediator</module>
         <module>state</module>
         <module>memento</module>
+        <module>visitor</module>
     </modules>
 
 </project>
